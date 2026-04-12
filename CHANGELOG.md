@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.5.0](https://github.com/PacificStudio/openase/compare/v0.4.0...v0.5.0) (2026-04-12)
+
+
+### Features
+
+* **chat:** add multi-tab Project AI workspace file editor ([#666](https://github.com/PacificStudio/openase/issues/666)) ([3446f2f](https://github.com/PacificStudio/openase/commit/3446f2fbbcba2cea8827973934a348f0e0c9bb1c))
+* **chat:** ship workspace browser v2 with path search ([f66b5ba](https://github.com/PacificStudio/openase/commit/f66b5bab3ac1791ad754b8b516f2c1c5322ee012))
+* **skills:** add builtin auto-harness bundle ([#669](https://github.com/PacificStudio/openase/issues/669)) ([fbfe224](https://github.com/PacificStudio/openase/commit/fbfe22471e3a780e47a005d5d1161d51d832bb48))
+* unify runtime raw/activity/transcript events ([c4e85a9](https://github.com/PacificStudio/openase/commit/c4e85a988d84e67095d8108aafb01b83b857f2a1))
+
+
+### Bug Fixes
+
+* restore Project AI fallback tabs and background queue flush ([ab9e4dd](https://github.com/PacificStudio/openase/commit/ab9e4dd3fa050da08ecf875d81888e2fc8e6fe6b))
+* **ticket-detail:** normalize transcript history cursors ([e850fa7](https://github.com/PacificStudio/openase/commit/e850fa7cfe9f91287a21a3367db7472de4fd27a9))
+
 ## [0.4.0](https://github.com/PacificStudio/openase/compare/v0.3.0...v0.4.0) (2026-04-11)
 
 
